@@ -1,2 +1,3 @@
-# mdrights.github.io
-A website for mental disability rights
+# YGG 的个人成长博客
+
+## 2015年11月，期待你来到这个世界哦！
