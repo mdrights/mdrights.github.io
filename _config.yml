@@ -1,0 +1,13 @@
+# MUST EDIT BELOW
+sitename: YGG's growth       #Your site title
+tagline: from Dad and Mom    #You should always have a tagline
+url: http://mdrights.github.io   #URL Please
+ga: UA-XXXXX-X              #Google Analytics ID
+sitemap: GOOGLEWEBMASTER    #Google webmaster verification code
+# END
+# CHOOSE YOUR PREFERENCE
+highlighter: pygments
+markdown:    kramdown
+permalink:   pretty
+# END
+#exclude: LICENSE, README.markdown, Rakefile
