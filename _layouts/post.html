@@ -7,7 +7,8 @@
 				<header class="hd_article">
 					<h1>{{ page.title }}</h1>
 						<div class="meta">
-								<span class="published">Published: </span>
+
+								<span class="published">Published: {{ page.date | date: "%b %d, %Y" }} </span>
 						</div>
 				</header>
 				<article class="the_article">
