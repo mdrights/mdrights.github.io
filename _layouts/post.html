@@ -8,7 +8,10 @@
 					<h1>{{ page.title }}</h1>
 						<div class="meta">
 
-								<span class="published">Published: {{ page.date | date: "%b %d, %Y" }} </span>
+								<span class="published">Published: </span>
+								<date>
+								{{ page.date | date: "%b %d, %Y" }}
+								</date>
 						</div>
 				</header>
 				<article class="the_article">
