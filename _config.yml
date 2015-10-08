@@ -1,13 +1,16 @@
 # MUST EDIT BELOW
-sitename: YGG的成长博客       #Your site title
-tagline: 欢迎一个新生命的到来。    #You should always have a tagline
+sitename: YCN's knowledge backups collections.       #Your site title
+tagline: Across the Wall.    #You should always have a tagline
 url: http://mdrights.github.io   #URL Please
+
 #ga: UA-XXXXX-X              #Google Analytics ID
 #sitemap: GOOGLEWEBMASTER    #Google webmaster verification code
 # END
+
 # CHOOSE YOUR PREFERENCE
 highlighter: pygments
 markdown:    kramdown
 permalink:   pretty
 # END
+
 #exclude: LICENSE, README.markdown, Rakefile
