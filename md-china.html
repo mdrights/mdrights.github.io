@@ -30,23 +30,3 @@
 <p>以下是站长收集的一些方法和策略，仅供参考:</p>
 <p>——谨记：亲自实践是最好的学习方法（Learning it by practising it:）
 <br>
-
-<div class="head-inner">
-        <h1>{{ page.title }}</h1>
-</div>
-
-{% for post in site.categories[page.category] %}
-<article>
-        <div class="article-inner">
-                <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-                <div class="meta">
-                        <date title="{{ post.date | date_to_xmlschema }}">
-                                <span class="day">{{ post.date | date: '%d' }}</span>
-                                <span class="month"><abbr>{{ post.date | date: '%b' }}</abbr></span>
-                                <span class="year">{{ post.date | date: '%Y' }}</span>
-                        </date>
-                </div>
-        </div>
-        </article>
-{% endfor %}
-
