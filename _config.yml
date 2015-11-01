@@ -1,7 +1,7 @@
 # MUST EDIT BELOW
 sitename: A collection for social/legal movements/actions of rights for people with mental disabilities inside and outside China.
 tagline: 开放知识，欢迎参与。
-url: http://mdrights.github.io   #URL Please
+url: http://mdrights.github.io   
 
 #ga: UA-XXXXX-X              #Google Analytics ID
 #sitemap: GOOGLEWEBMASTER    #Google webmaster verification code
@@ -11,6 +11,10 @@ url: http://mdrights.github.io   #URL Please
 highlighter: pygments
 markdown:    kramdown
 permalink:   pretty
+
+paginate: 10
+paginate_path: "/md-world/page:num/"
+
 # END
 
 #exclude: LICENSE, README.markdown, Rakefile
