@@ -1,18 +1,19 @@
-{% include system_head.html %}
-<body class="{{ page.layout }}">
+<html lang="en-us">
+
+    <meta charset="UTF-8">
+    <title>精神病与社会/法律观察 by mdrights</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+
+
 	<div id="page">
 		{% include header.html %}
-		<div id="main" role="main">
-			<div class="main_inner">
-				<article class="the_article">
-				<div class="article_inner">
-					<div class="content">{{ content }}</div>
-				</div>
-				</article>
-			</div>
-		</div><!-- id="main" -->
+		
+		<div class="content">{{ content }}</div>
+
 		{% include footer.html %}
-	</div><!-- id="page" -->
-	{% include system_foot.html %}
-</body>
+
+	</div>
 </html>
