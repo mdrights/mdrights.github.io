@@ -1,16 +1,16 @@
 ---
 layout: post
 ---
-![Original link](https://transformingcommunitiesforinclusion.wordpress.com/2015/10/10/dignity-must-prevail-special-rapporteurs-on-world-mental-health-day)
+[Original link](https://transformingcommunitiesforinclusion.wordpress.com/2015/10/10/dignity-must-prevail-special-rapporteurs-on-world-mental-health-day)
 
 
 ##“Dignity must prevail” – Special Rapporteurs on World Mental Health Day
-###October 10, 2015 ~ CAMH News and Resources	
+October 10, 2015 ~ CAMH News and Resources	
+------------------------------------------
 
 
-![see also](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=16583&LangID=E)
 
-“Dignity must prevail” – An appeal to do away with non-consensual psychiatric treatment World Mental Health Day – Saturday 10 October 2015
+[“Dignity must prevail” – An appeal to do away with non-consensual psychiatric treatment World Mental Health Day – Saturday 10 October 2015](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=16583&LangID=E)
 
 GENEVA (8 October 2015) – The United Nations Special Rapporteurs on the rights of persons with disabilities, Catalina  Devandas-Aguilar, and on the right to health, Dainius Pûras, today called on States to eradicate all forms of non-consensual psychiatric treatment.
 
