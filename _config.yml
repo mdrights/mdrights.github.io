@@ -12,8 +12,8 @@ highlighter: pygments
 markdown:    kramdown
 permalink:   pretty
 
-paginate: 10
-paginate_path: "/pages/page:num/"
+#paginate: 10
+#paginate_path: "/pages/page:num/"
 
 # END
 
