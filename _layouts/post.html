@@ -1,46 +1,24 @@
-<html lang="en-us">
-	{% include system_head.html %}
+---
+layout: default
+---
 
-  <head>
-    <meta charset="UTF-8">
-    <title>精神病与社会/法律观察 by mdrights</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/stylesheets/normalize.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/stylesheets/github-light.css" media="screen">
-  </head>
-
-<body>
-<section class="main-content">
-	{% include header.html %}
-		
-		<h1>{{ page.title }}</h1>
-				
-		<div class="content">{{ content }}</div>
-				
-		{% include footer.html %}
+<div class="post">
 	
-	{% include system_foot.html %}
-</section>
-</body>
-
-{% for post in site.posts %}
-	<a href="{{ post.url }}">
-	<h2>{{ post.title }} &mdash; {{ post.date | date_to_string }}</h2>
-	</a>
-	{{ post.content }}
-	{% endfor %}		
-
-		<nav class="pagenation">
-		<ul>
-
-		{% if page.previous %}
-			<li class="before left"><a rel="prev" href="{{ page.previous.url }}" class="btn" title="View {{ page.previous.title }}">Before</a></li>
+	<article class="post-content">
+		
+		<div class="post-header">
+			<h1 class="post-title">{{ page.title }}</h1>
+			<p class="post-meta">{% assign post = page %}{% include post_meta.html %}</p>
+		</div>
+		
+		{% if page.headpic %}
+		<p><img src="{{ site.baseurl }}/images/{{ page.date | date: "%Y/%m" }}/{{ page.headpic }}"{% if page.headpic_alt %} alt="{{ page.headpic_alt }}"{% endif %}></p>
 		{% endif %}
-		{% if page.next %}
-			<li class="next right"><a rel="next" href="{{ page.next.url }}" class="btn" title="View {{ page.next.title }}">Next</a></li>
-		{% endif %}
-
-		</ul>
-		</nav>
-</html>
+		{{ content }}
+	</article>
+	
+	{% if page.comments %}
+	{% include disqus_comment.html %}
+	{% endif %}
+	
+</div>
