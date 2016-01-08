@@ -14,7 +14,9 @@ layout: default
 		{% if page.headpic %}
 		<p><img src="{{ site.baseurl }}/images/{{ page.date | date: "%Y/%m" }}/{{ page.headpic }}"{% if page.headpic_alt %} alt="{{ page.headpic_alt }}"{% endif %}></p>
 		{% endif %}
+
 		{{ content }}
+
 	</article>
 	
 	{% if page.comments %}
