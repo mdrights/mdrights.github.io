@@ -3,10 +3,21 @@ layout: default
 ---
 <h2>关于：<a href="{{ site.url }}/about/">本站</a></h2>
 
-<h2>FAQ</h2>
-<ul>
-	<li>什么是<a href="https://en.wikipedia.org/wiki/Psychiatric_survivor">“精神科幸存者运动”</a>？（英文）</li>
-	<li>然后请参考这篇文章：<a href="http://mdrights.github.io/pages/glance-western-pso">【入门】外国的精神科幸存者运动组织一览</a></li>
+<h3></h3>
 
-</ul>
 
+<h3>最新消息</h3>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
