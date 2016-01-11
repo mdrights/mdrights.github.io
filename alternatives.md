@@ -10,10 +10,10 @@ permalink: /alternatives/
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.content | truncatewords:60}}
+      <div class="content">
+        {{ post.content | truncatewords:60 }}
         <div class="date">
-          Written on {{ post.date | date: "%B %e, %Y" }}
+          Posted on {{ post.date | date: "%B %e, %Y" }}
         </div>
       </div>
       
