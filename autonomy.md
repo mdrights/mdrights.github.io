@@ -7,11 +7,11 @@ permalink: /autonomy/
 <div class="tag-page">
 	
 	<p class="post-meta">
-		{{ site.tags[page.title] | size }} 篇文章
+		{{ site.tags[TCI-asia] | size }} 篇文章
 	</p>
 	
 	<ul class="post-list">
-		{% for post in site.tags[page.title] %}
+		{% for post in site.tags[TCI-asia] %}
 		<li>
 			
 			<h2>
