@@ -3,17 +3,13 @@ layout: page
 title: Autonomy on Medicine
 permalink: /autonomy/
 ---
+### Q: 什么是精神科药物的“自主用药”？
+* ~  
 
-<div class="tag-page">
-	
-	<p class="post-meta">
-		{{ page.tags[page.title] | size }} 篇文章
-	</p>
 	
 	<ul class="post-list">
-		{% for post in page.tags[page.title] %}
+		{% for post in page.tags['TCIasia'] %}
 		<li>
-			
 			<h2>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 			</h2>
@@ -21,4 +17,3 @@ permalink: /autonomy/
 		{% endfor %}
 	</ul>
 	
-</div>
