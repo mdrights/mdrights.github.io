@@ -8,7 +8,7 @@ permalink: /autonomy/
 
 	
 	<ul class="post-list">
-		{% for post in page.tags['TCIasia'] %}
+		{% for post in page.tags[TCIasia] %}
 		<li>
 			<h2>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
