@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: 'TCIasia'
+tags: 'Autonomy on Medicine'
 ---
 
 ## “Dignity must prevail” – Special Rapporteurs on World Mental Health Day
