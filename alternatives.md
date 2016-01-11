@@ -3,4 +3,24 @@ layout: page
 title: Alternatives Beyond Psychiatry
 permalink: /alternatives/
 ---
-Alternatives
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">    
+      
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.content | truncatewords:60}}
+        <div class="date">
+          Written on {{ post.date | date: "%B %e, %Y" }}
+        </div>
+      </div>
+      
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+
+{% include /pagination.html %}

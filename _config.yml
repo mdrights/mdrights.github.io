@@ -22,6 +22,12 @@ exclude: [Gemfile, Gemfile.lock]
 enforce_ssl: mdrights.github.io
 permalink: /posts/:year/:month/:title.html
 
+# Pagination
+# Set the number of posts per page
+paginate: 4
+paginate_path: "/page:num"
+paginate_limit: 7
+
 # Plugins
 gems:
   - jemoji

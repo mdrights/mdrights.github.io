@@ -6,9 +6,8 @@ permalink: /autonomy/
 
 <div class="tag-page">
 	
-	<h1 class="page-heading"><img src="{{ site.baseurl }}/images/tags.svg" alt="标签：" width="42px" height="32px">&nbsp;{{ page.title }}</h1>
 	<p class="post-meta">
-		{{ site.tags[page.title] | size }} 篇博文
+		{{ site.tags[page.title] | size }} 篇文章
 	</p>
 	
 	<ul class="post-list">
