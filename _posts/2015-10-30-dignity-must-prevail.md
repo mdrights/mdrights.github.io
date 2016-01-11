@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: post
 tags: TCIasia 
 title: "Dignity Must Prevail"
 ---
 
 ###  – Special Rapporteurs on World Mental Health Day  
-October 10, 2015 ~ CAMH News and Resources	
-------------------------------------------
+October 10, 2015 ~ CAMH News and Resources  
+	
 [Original link](https://transformingcommunitiesforinclusion.wordpress.com/2015/10/10/dignity-must-prevail-special-rapporteurs-on-world-mental-health-day)
 
 
