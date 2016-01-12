@@ -6,13 +6,13 @@ title: INTAR INTERNATIONAL CONFERENCE 2016
 
 26 – 28 November 2016 – PUNE, INDIA
 
-[下载PDF宣传册]()
+[下载PDF宣传册](http://intar.org/wp-content/uploads/intar_conference_2016_web.pdf)
 
 The conference will provide a space for critical dialogue and interaction representing South, East, West & Northern perspectives under the following themes:
 
-    *Crisis/Existential Experiencing*
-    *Cultural Experiencing and Responses*
-    *Peers/Grass Roots Support/Survivors*
+    Crisis/Existential Experiencing
+    Cultural Experiencing and Responses
+    Peers/Grass Roots Support/Survivors
 
 <!--more-->
 
