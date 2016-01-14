@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 介绍：精神科幸存者运动
-permalink:/movement-cn/
+permalink: /movement-cn/
 ---
 
 ## 精神科幸存者运动
