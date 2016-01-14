@@ -1,7 +1,7 @@
---- 
+---
 layout: page
 permalink: /BT-survey-2016/
---- 
+---
 ## January 2016 Inclusion of persons with psycho-social disabilities - Good Practices (Category of Respondent: Self-advocate / self-identifying as living with psycho-social disability)
 
 The Center for Advocacy in Mental Health (CAMH) is the research, training and advocacy 
