@@ -5,22 +5,18 @@ permalink: /movement-cn/
 ---
 
 #### Psychiatric survivors movement  
-**来自维基百科Wikipedia
+**来自维基百科 Wikipedia |
 [原文地址](https://en.wikipedia.org/wiki/Psychiatric_survivor_movement)**
 
 
-译者：伊万    校对：本站
+译者：伊万 | 校对：本站
 
 
 ### 内容
 1 历史  
-
 1.1 先行者  
-
 1.2 20世纪早期  
-
 1.3 1950至1970年代  
-
 1.4 1980至1990年代  
 2 当代的运动  
 3 影响  
