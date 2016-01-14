@@ -4,25 +4,28 @@ title: 介绍：精神科幸存者运动
 permalink: /movement-cn/
 ---
 
-## 精神科幸存者运动
 #### Psychiatric survivors movement  
 **来自维基百科Wikipedia
-[原文地址]()**
+[原文地址](https://en.wikipedia.org/wiki/Psychiatric_survivor_movement)**
 
 
 译者：伊万    校对：本站
 
 
 ### 内容
-1 历史
-1.1 先行者
-1.2 20世纪早期
-1.3 1950至1970年代
-1.4 1980至1990年代
-2 当代的运动
-3 影响
-4 请参阅
-5 参考
+1 历史  
+
+1.1 先行者  
+
+1.2 20世纪早期  
+
+1.3 1950至1970年代  
+
+1.4 1980至1990年代  
+2 当代的运动  
+3 影响  
+4 请参阅  
+5 参考  
 6 外部链接  
 
 
@@ -34,7 +37,8 @@ permalink: /movement-cn/
 
 
 现代精神卫生服务领域的自助和倡导运动在1970年代发展起来，但是前精神病人已经为改变法律、治疗、服务和公共政策斗争了好几个世纪。“精神病学最坚持不渝的批评者总是精神病院的前病人”，虽然很少数人能够公开他们的故事或者公然地直面精神科机构，并且那些这样做的通常被认为他们的指控是那么的极端，以致他们很少能获得信誉。1620年，在英格兰，臭名昭著的环境恶劣的Bethlem医院的病人们联合起来并向上议院发了一封“在疯人院的的可怜的受精神困扰的人的请愿书（与居住者的环境有关）”。在18世纪，一些前病人发行小册子反抗精神病系统，像Samuel Bruckshaw（1774年），关于“私人精神病院的极不公正的凌虐”，和William Belcher（1796年）用他的“关于人道的演讲，包括给Munro医生的信，制造精神失常者的证据、真正在笑的鬣狗素描”。这样的改革者的努力通常被精神病院负责人和医生所反对。
-In the late 18th century, moral treatment reforms developed which were originally based in part on the approach of French ex-patient turned hospital-superintendent Jean-Baptiste Pussin and his wife Margueritte. From 1848 in England, the Alleged Lunatics' Friend Society campaigned for sweeping reforms to the asylum system and abuses of the moral treatment approach. In the United States, The Opal (1851–1860) was a ten volume Journal produced by patients of Utica State Lunatic Asylum in New York, which has been viewed in part as an early liberation movement. Beginning in 1868, Elizabeth Packard, founder of the Anti-Insane Asylum Society, published a series of books and pamphlets describing her experiences in the Illinois insane asylum to which her husband had had her committed.
+
+
 在18世纪末叶，道德的治疗改革发展起来，它们的起源在某种程度上基于法国的由前病人转变成医院主管的Jean-Baptiste Pussin和他的妻子Margueritte的方法。在英格兰，从1848年，“所谓的精神病人朋友协会”为争取影响广泛的对精神病院系统和道德治疗方法滥用的改革而斗争。在美国，Opal（1851-1860）是一份由在纽约的尤蒂卡州立精神病院的病人创办的十册的期刊，它在某种程度上被视为早期解放运动。从1868年开始，Elizabeth Packard，“反精神病院协会”的创始人，发行了一系列书和小册子，描述她在伊利诺伊州精神病院的经历，她是被她的丈夫送去收治的。
 
 
