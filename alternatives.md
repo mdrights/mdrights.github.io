@@ -3,8 +3,6 @@ layout: page
 title: Alternatives Beyond Psychiatry
 permalink: /alternatives/
 ---
-### Q：什么是“超越精神医学的另类疗愈”？
-* -  
-
+{% include /QA/meaning.html %}
 <hr>
-### 最新消息
+### [每周翻译三两篇:madinamerica.com]
