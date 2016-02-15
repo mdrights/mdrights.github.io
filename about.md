@@ -2,7 +2,7 @@
 layout: page
 title: 问与答 | 关于本站
 permalink: /about/
-date: 20160215
+date: 
 ---
 {% include /QA/whatispsm.html %}
 
