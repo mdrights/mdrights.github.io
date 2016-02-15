@@ -16,11 +16,12 @@ excerpt_separator: <!--more-->
 
 # Build settings
 # markdown: redcarpet
-redcarpet: 
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+# redcarpet: 
+#  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 exclude: [Gemfile, Gemfile.lock]
 enforce_ssl: mdrights.github.io
-permalink: /posts/:year/:month/:title.html
+# permalink: /posts/:year/:month/:title.html
+permalink: /posts/:title.html
 
 # Pagination
 # Set the number of posts per page
