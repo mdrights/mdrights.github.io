@@ -9,7 +9,7 @@ permalink: /movement-cn/
 [原文地址](https://en.wikipedia.org/wiki/Psychiatric_survivor_movement)**
 
 
-译者：伊万 | 校对：本站
+译者：伊万 | 校对：塗尔干
 
 
 ### 内容
