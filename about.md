@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 问与答 | 关于本站
+title: About me
 permalink: /about/
 ---
 
