@@ -18,7 +18,7 @@ permalink: /qna/
 - 今后有可能会添加更多知识源。如您有好资源，也可以推荐哦～
 - 本站的前身是豆瓣小站：[社區發展和藝術網絡](http://site.douban.com/216443/room/2955353/)。很多过往的资料都没来得及搬过来：[豆列：精神科幸存者运动](http://www.douban.com/doulist/37393203/)
 
-### 关于站长
+### 关于塗尔干
 - 一个热爱Linux/UNIX和折腾的、读过精神病学和人类学的、NGO小子。
 - 欢迎参与翻译协作。
 - 欢迎浏览本站源码，和其他项目：[mdrights@github](https://github.com/mdrights)
