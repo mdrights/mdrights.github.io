@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 问与答
+title: Q & A
 permalink: /qna/
 ---
 
