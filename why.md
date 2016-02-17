@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Q & A
-permalink: /qna/
+permalink: /why/
 ---
 
 ### 为什么会有这个网站?
