@@ -5,6 +5,4 @@ permalink: /qna/
 ---
 
 {% /QA/whatispsm.html %}
-
 {% /QA/meaning.html %}
-
