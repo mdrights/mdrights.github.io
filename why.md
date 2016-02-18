@@ -11,7 +11,7 @@ permalink: /why/
 
 ### 本站的知识来源
 - 目前的任务主要是转译这几个组织/网站的知识：
-    - [印度精神健康倡导中心(CAMH)](https://www.camhjournal.com)
+    - [印度精神健康倡导中心(CAMH)](http://camhjournal.com)
     - [泛亚社会心理障碍社区融合自倡导者联盟(TCI-ASIA)](https://transformingcommunitiesforinclusion.wordpress.com)
     - [MadinAmerica](http://www.madinamerica.com)
 - 今后有可能会添加更多知识源。如您有好资源，也可以推荐哦～
