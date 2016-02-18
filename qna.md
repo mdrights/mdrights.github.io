@@ -4,5 +4,5 @@ title: Q and A
 permalink: /qna/
 ---
 
-{% /QA/whatispsm.html %}
-{% /QA/meaning.html %}
+{% include /QA/whatispsm.html %}
+{% include /QA/meaning.html %}
