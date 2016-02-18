@@ -6,7 +6,6 @@ permalink: /about/
 
 {% include /QA/whatispsm.html %}
 
-{% include /QA/meaning.html %}
 
 ### 为什么会有这个网站?
 - 因为很多英文资料被墙了；也是因为很多简体中文资料无法被国际搜索引擎（如谷歌）搜到（特别是微博、微信
