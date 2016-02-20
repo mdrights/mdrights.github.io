@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer Leigh, Psy.D
+title: "Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer Leigh, Psy.D"
 ---
 
 ### Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer Leigh, Psy.D
