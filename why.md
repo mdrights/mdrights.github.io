@@ -14,6 +14,7 @@ permalink: /why/
     - [印度精神健康倡导中心(CAMH)](http://camhjournal.com)
     - [泛亚社会心理障碍社区融合自倡导者联盟(TCI-ASIA)](https://transformingcommunitiesforinclusion.wordpress.com)
     - [MadinAmerica](http://www.madinamerica.com)
+    - [Survivor-led Research](http://www.survivor-research.com/)
 - 今后有可能会添加更多知识源。如您有好资源，也可以推荐哦～
 - 本站的前身是豆瓣小站：[社區發展和藝術網絡](http://site.douban.com/216443/room/2955353/)。很多过往的资料都没来得及搬过来：[豆列：精神科幸存者运动](http://www.douban.com/doulist/37393203/)
 
