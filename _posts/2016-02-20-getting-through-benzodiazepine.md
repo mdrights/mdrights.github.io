@@ -1,5 +1,6 @@
 ﻿---
 ---
+
 ### Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer Leigh, Psy.D
 
 **Addiction Blog Published: May 20, 2015**
