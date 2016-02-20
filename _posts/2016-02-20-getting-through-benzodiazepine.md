@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer Leigh, Psy.D"
+title: "INTERVIEW with Dr. Jennifer Leigh, Psy.D"
 ---
 
 ### Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer Leigh, Psy.D
@@ -10,14 +10,17 @@ title: "Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer L
 
 ### 熬过苯二氮卓（安定类）戒断反应：访问心理学博士Jennifer Leigh
 
+
 **原文发表于：成瘾博客 2015年5月20日**
 
 *原文链接：http://prescription-drug.addictionblog.org/getting-through-benzodiazepine-withdrawal-interview-with-dr-jennifer-leigh-ph-d/*
 
-译者：伊万
+
+译者：伊万  
 校对：塗尔干
 
-译文链接：http://mdrights.github.io/posts/
+
+译文链接：https://mdrights.github.io/posts/getting-through-benzodiazepine.html
 
 **（CC-BY-SA版权协议：欢迎分享，请保留作者、译者信息和链接，并附带本版权声明。谢谢。）**
 
