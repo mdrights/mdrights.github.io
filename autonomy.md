@@ -23,4 +23,6 @@ permalink: /autonomy/
 
 <hr>
 
-- [熬过苯二氮卓（安定类）截断反应：访问心理学博士Jennifer Leigh ]({{ site.baseurl }}/posts/getting-through-benzodiazepine.html)
+[翻译]
+
+- [熬过苯二氮卓（安定类）戒断反应：访问心理学博士Jennifer Leigh ]({{ site.baseurl }}/posts/getting-through-benzodiazepine.html)
