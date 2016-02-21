@@ -1,4 +1,5 @@
-﻿---
+﻿
+---
 ---
 
 ### Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer Leigh, Psy.D
@@ -62,12 +63,11 @@ No one really knows.
 
 All we know is the drug changes the brain and there are less viable working GABA receptors. That means that the patient will experience anxiety, panic, paranoia, intrusive thoughts, and a host of body symptoms, unless the dose is increased.  At some point, however, even with increased dosages, withdrawal symptoms will not be kept at bay. The patient will be sick both mentally and physically from the damage done by the drug.
 
-JENNIFE LEIGH 博士：当你碰上所谓的“耐药性戒药”时，你的大脑需要更多的药物来持续让你感到它的效用。所发生的是药物重新构造了大脑。现行理论是那些在大脑中与药物交互作用的GABA 受体，要么被吸收进神经元轴突，要么与轴突脱离。
+JENNIFE LEIGH 博士：当你碰上所谓的“耐药性戒断”时，你的大脑需要更多的药物来持续让你感到它的效用。所发生的是药物重新构造了大脑。现行理论是那些在大脑中与药物交互作用的GABA 受体，要么被吸收进神经元轴突，要么与轴突脱离。
 
 没人知道真正的事实是什么。
 
 我们所知道的是药物改变了大脑，并且更少存活的的伽马氨基丁酸受体。那意味着病人会经受焦虑、恐慌、妄想症、思维入侵、并且有大量的躯体症状，除非药物剂量增加。但是，在某种程度上，即使是增加了剂量，戒药症状不会受到控制。病人会受到药物造成的伤害带来的精神和身体上的疾病。
-
 
 
 ADDICTION BLOG: What would you recommend is the best method to withdraw or detox from a benzo drug?
@@ -96,8 +96,6 @@ ADDICTION BLOG: How do you advise families to work together and help a loved one
 
 成瘾博客：您有什么建议给那些对苯二氮卓类形成依赖并且正在戒药的病人的家人来一同协作和帮助他们的亲人？
 
-
-
 DR. JENNIFER LEIGH: That is a wonderful question and I am so pleased that you asked it.
 
 First, it is important that family members educate themselves as to the extreme suffering benzo withdrawal can cause. The suffering is mental, physical, emotional and spiritual. It affects every aspect of a human being-s existence. It is important to be aware that suicide is a very real risk in withdrawal. It is also important to reassure your loved one that they will heal. Reassurance will be needed many, many times throughout a day, for a very long time.
@@ -124,7 +122,7 @@ Please avoid drama, and overly stimulating conversations, or activities. Benzos 
 
 JENNIFER LEIGH博士：是的，家庭成员应该避免坚持让他们所爱的人在戒药过程做任何超出他们能力的事。我们在戒药过程中真的病的很严重，所以像譬如“让我们到健身房，或者忍着，或者去度假”等建议，真的是很伤人心和有害的。
 
-请避免玩戏剧，和过度鼓励对话，或是活动。苯二氮卓类在身体系统里留存很长的时间，并且一个戒除苯二氮卓类的人的中枢神经系统是非常脆弱的。我们需要平静和安静。请不要让一个正在戒药的人停止谈论他们的症状。戒断苯二氮卓类的忧心忡忡是戒断苯二氮卓类的症状的一种。它会像其他症状消失一样地逐渐消失。
+请避免玩戏剧，和鼓励过度对话，或是活动。苯二氮卓类在身体系统里留存很长的时间，并且一个戒除苯二氮卓类的人的中枢神经系统是非常脆弱的。我们需要平静和安静。请不要让一个正在戒药的人停止谈论他们的症状。戒断苯二氮卓类的忧心忡忡是戒断苯二氮卓类的症状的一种。它会像其他症状消失一样地逐渐消失。
 
 
 ADDICTION BLOG: Long-term benzodiazepine use can have damaging effects on many organs in the human body, including the brain. You, yourself have experienced benzo dependence and withdrawal. Would you like to share your the details of your recovery process?
