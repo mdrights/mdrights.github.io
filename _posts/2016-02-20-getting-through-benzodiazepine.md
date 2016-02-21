@@ -36,6 +36,7 @@ ADDICTION BLOG: Let’s begin with these two burning questions: “Why are benzo
 
 成瘾博客：让我们从两个急切的问题开始：“为什么苯二氮卓类药物成为如此广泛使用的处方药（主要对妇女和老年人）”和“为什么苯二氮卓类药物的治疗会趋向于比推荐的几天或数周持续使用更长的时间？”
 
+<!--more-->
 
 DR. JENNIFER LEIGH: Those are two questions that we who have been harmed by these drugs ask, too.
 
