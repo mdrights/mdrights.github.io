@@ -30,15 +30,17 @@ permalink: /autonomy/
 [推荐 ]
 
 - 減害手冊──脫離精神科藥物（HK《跳制》小组2013年译自美国The Icarus Project的同名英文手册）  
-    - 繁体中文网上版：https://harmreduction2013hk.wordpress.com/  
+    - [繁体中文网上版：](https://harmreduction2013hk.wordpress.com/)  
         - [（PDF下载）]({{ site.baseurl }}/docs/减害手册-脱离精神科药物-跳制译.pdf)
         - 中文翻譯│sally....中文藥名校對吳家文中醫師....最後校對│跳制   
-        - 跳制制作的减害宣传册PDF下载：https://shortpressaction.files.wordpress.com/2014/07/1-shortpress-201471.pdf
-    - 英文原版English version: http://www.theicarusproject.net/downloads/ComingOffPsychDrugsHarmReductGuide2Edonline.pdf  
-    - 友情推荐《跳制》的刊物：https://shortpress.wordpress.com/ （一期）  
-        - https://shortpressaction.wordpress.com/ （二期）  
+        - [跳制制作的减害宣传册PDF下载：](https://shortpressaction.files.wordpress.com/2014/07/1-shortpress-201471.pdf)
+    - [英文原版English version:](http://www.theicarusproject.net/downloads/ComingOffPsychDrugsHarmReductGuide2Edonline.pdf)  
+    - 友情推荐《跳制》的刊物：
+        - [一期](https://shortpress.wordpress.com/)   
+        - [二期」(https://shortpressaction.wordpress.com/)   
 
-        「這手冊是以互助和朋輩支持的精神而寫的，並沒有意圖成為醫療及專業意見。當每一個人都是很不同，而精神科藥物的影響力又是那麼強大的時候，突然或者一個人單獨去脫離它，有時是很危險的。」
-        **站长注：期待读者你的读后感，包括这手册在中国文化/社会的合适程度，欢迎来个邮件谈谈～（本站不使用页面评论：）** {{ site.email }}
+> 「這手冊是以互助和朋輩支持的精神而寫的，並沒有意圖成為醫療及專業意見。當每一個人都是很不同，而精神科藥物的影響力又是那麼強大的時候，突然或者一個人單獨去脫離它，有時是很危險的。」  
 
-[手册封面]({{ site.baseurl }}/img/comingoffpsychdrugs.jpg)
+> **站长注：期待读者你的读后感，包括这手册在中国文化/社会的合适程度，欢迎来个邮件谈谈～（本站不使用页面评论：）** {{ site.email }}
+
+![手册封面]({{ site.baseurl }}/img/comingoffpsychdrugs.jpg)
