@@ -1,6 +1,5 @@
 ﻿
 ---
----
 
 ### Getting through benzodiazepine withdrawal: INTERVIEW with Dr. Jennifer Leigh, Psy.D
 

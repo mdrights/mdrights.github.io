@@ -37,7 +37,7 @@ permalink: /autonomy/
     - [英文原版English version:](http://www.theicarusproject.net/downloads/ComingOffPsychDrugsHarmReductGuide2Edonline.pdf)  
     - 友情推荐《跳制》的刊物：
         - [一期](https://shortpress.wordpress.com/)   
-        - [二期」(https://shortpressaction.wordpress.com/)   
+        - [二期](https://shortpressaction.wordpress.com/)   
 
 > 「這手冊是以互助和朋輩支持的精神而寫的，並沒有意圖成為醫療及專業意見。當每一個人都是很不同，而精神科藥物的影響力又是那麼強大的時候，突然或者一個人單獨去脫離它，有時是很危險的。」  
 
