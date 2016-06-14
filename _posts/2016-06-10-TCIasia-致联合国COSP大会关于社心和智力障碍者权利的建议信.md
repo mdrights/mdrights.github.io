@@ -1,3 +1,6 @@
+---
+---
+
 All human rights for persons with psychosocial and intellectual disabilities
 
 **A Statement by the Civil Society Co-ordination Mechanism, towards the RoundTable on "Promoting the human rights of persons with mental and intellectual disabilities" at the 9th Session of COSP, New York, June, 2016.**
@@ -7,6 +10,7 @@ All human rights for persons with psychosocial and intellectual disabilities
 2. Persons with intellectual and psychosocial disabilities are among the most marginalized, vulnerable and excluded groups in society. There are continuing barriers to our inclusion, namely, discriminatory laws and practices resulting in deprivation of legal capacity and liberty, exposing us to acts of violence, abuse, cruel, inhuman, degrading treatment and torture, on the basis of disability.
 
 3. Member states must comply with the obligation to make a paradigm shift into the social model of disability. Practical guidance issued by Member States and all UN Agencies should ensure that the CRPD is the baseline for *all* policy and implementation changes towards inclusion of persons with intellectual and psychosocial disabilities.
+<!--more-->
 
 4. We are 'Persons with psychosocial disabilities' and we advocate for this terminology, rather than any other medical references. Also, while persons with psychosocial disability and intellectual disability face similar barriers to the realization of their rights and full inclusion, it is important to acknowledge that psychosocial disability and intellectual disability are distinct from each other.
 

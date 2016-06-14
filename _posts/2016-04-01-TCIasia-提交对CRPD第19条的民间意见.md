@@ -1,12 +1,12 @@
 ---
-layout: post
 ---
 
-<img src="media/image1.jpeg" width="176" height="110" />**Transforming Communities for Inclusion – Asia**
+<img src="img/tci-logo.png" width="176" height="110" />**Transforming Communities for Inclusion – Asia**
 
 **(Draft) Submission to the UNCRPD Monitoring Committee, Day of General Discussion, Article 19**
 
 > [本站注］由于站长最近较忙，这篇TCIasia四月份在联合国CRPD监督委员会之一般性讨论日上所做的发言／建议，从民间／自倡导者的立场解读了CRPD第19条的要义，展现了TCIasia的基本使命和立场：（1）明确“社区”和“融合”的概念；（2）确认一个融合的社区是人类向往爱、关照和分享的体现；（3）承认确实存在着一批能实现CRPD第19（2）条所述的良好实践；（4）明确要求缔约国实施有效的法律，以保障 在社区独立生活和被包容的权利，作为普世人权得到法律认可。  
+> (在翻译中……）
 
 **Executive Summary**
 
