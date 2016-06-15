@@ -1,9 +1,22 @@
 ---
 ---
 
-All human rights for persons with psychosocial and intellectual disabilities
+**Civil Society Response to COSP Background paper “Promoting the humanrights of persons with psychosocial and intellectual disabilities”**
 
-**A Statement by the Civil Society Co-ordination Mechanism, towards the RoundTable on "Promoting the human rights of persons with mental and intellectual disabilities" at the 9th Session of COSP, New York, June, 2016.**
+*A Statement by the Civil Society Co-ordination Mechanism, towards the RoundTable on "Promoting the human rights of persons with mental and intellectual disabilities" at the 9th Session of COSP, New York, June, 2016.*
+
+> 2016年6月14-16日联合国经济与社会事务部（DESA）举行CRPD缔约国会议（COSP），其中一场圆桌会议将讨论 “保障精神和智力障碍者人权”主题。然而TCIasia在会议背景文件（议程）里发现了比较大的问题：背景文件完全以生物医学范式（而非CRPD的社会范式）的框架写成。当这份文件在推广“弥补治疗差距”这个全球精神健康规划的时候，却在强制住院化（机构化）、霸权精神病学，以及持续使用非人性的、侮辱性的残酷的治疗甚至酷刑等问题上保持沉默。因而这样的会议文件显然与CRPD背道而驰。此外，这份文件竟然没有涉及那么多为智力和社会心理障碍者提供支持、促进他们全面而有效参与的社区支持系统等 良好实践的范例。  
+> 因此TCIasia与“公民社会协作机制”成员向大会表达了诉求。那么到开会的前两天，大会接纳了我们的意见，并对背景文件进行了修正。下面是TCI提交的建议信，想看那份[背景文件]()的请猛戳链接。  
+
+英文出处：[camhjournal.com](https://camhjournal.com/2016/06/02/civil-society-response-to-cosp-background-paper-promoting-the-humanrights-of-persons-with-psychosocial-and-intellectual-disabilities/)
+
+**Note by Civil Society Co-ordination Mechanism**
+
+The present document was prepared by a small working group for the Civil Society Co-ordination Mechanism, on the basis of available information, towards the round-table discussion on the background paper, “Promoting the rights of persons with mental and intellectual disabilities”, to be held at the ninth session of the Conference of States Parties to the Convention on the Rights of Persons with Disabilities, New York.
+
+The members of the Civil Society Co-ordination Mechanism are extremely concerned that the background paper is developed completely within the bio-medical paradigm, and not the social paradigm as framed by the CRPD. The paper, while promoting the global mental health agenda of ‘filling the treatment gap’, remains silent on the topics of forced institutionalization, coercive psychiatry, and the vexatious continued use of inhuman, degrading, cruel treatments amounting to torture, within the mental health systems worldwide. In referring to outmoded documents such as the 1991 MI Principles, and promoting mental health legislations, this document is far from compliant with the UNCRPD, [vide the emerging General comments, Concluding Observations, observations by visiting SRs, thematic studies, research papers and various other developments within the UN system].  Finally, the paper makes no reference to the many good practice examples of community support systems that exist for persons with intellectual and psychosocial disabilities, facilitating their inclusion and full and effective participation in community life.
+
+---
 
 1. The members of the Civil Society Co-ordination Mechanism recognize that the United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) is the highest applicable standard, overriding all others, to protect and fulfil all the human rights of persons with psychosocial and intellectual disabilities; and to ensure their full inclusion and effective participation in society. The SDGs, and an inclusive world for all by 2030, is an aspiration which enlists *all* persons of the world, including persons with intellectual and psychosocial disabilities.
 
