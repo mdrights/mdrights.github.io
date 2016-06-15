@@ -5,8 +5,8 @@
 
 *A Statement by the Civil Society Co-ordination Mechanism, towards the RoundTable on "Promoting the human rights of persons with mental and intellectual disabilities" at the 9th Session of COSP, New York, June, 2016.*
 
-> 2016年6月14-16日联合国经济与社会事务部（DESA）举行CRPD缔约国会议（COSP），其中一场圆桌会议将讨论 “保障精神和智力障碍者人权”主题。然而TCIasia在会议背景文件（议程）里发现了比较大的问题：背景文件完全以生物医学范式（而非CRPD的社会范式）的框架写成。当这份文件在推广“弥补治疗差距”这个全球精神健康规划的时候，却在强制住院化（机构化）、霸权精神病学，以及持续使用非人性的、侮辱性的残酷的治疗甚至酷刑等问题上保持沉默。因而这样的会议文件显然与CRPD背道而驰。此外，这份文件竟然没有涉及那么多为智力和社会心理障碍者提供支持、促进他们全面而有效参与的社区支持系统等 良好实践的范例。  
-> 因此TCIasia与“公民社会协作机制”成员向大会表达了诉求。那么到开会的前两天，大会接纳了我们的意见，并对背景文件进行了修正。下面是TCI提交的建议信，想看那份[背景文件]()的请猛戳链接。  
+> 2016年6月14-16日联合国经济与社会事务部（DESA）举行[CRPD缔约国会议（COSP）](https://www.un.org/development/desa/disabilities/conference-of-states-parties-to-the-convention-on-the-rights-of-persons-with-disabilities-2/9thsession.html)，其中一场圆桌会议将讨论 “保障精神和智力障碍者人权”主题。然而TCIasia在会议背景文件（议程）里发现了比较大的问题：背景文件完全以生物医学范式（而非CRPD的社会范式）的框架写成。当这份文件在推广“弥补治疗差距”这个全球精神健康规划的时候，却在强制住院化（机构化）、霸权精神病学，以及持续使用非人性的、侮辱性的残酷的治疗甚至酷刑等问题上保持沉默。因而这样的会议文件显然与CRPD背道而驰。此外，这份文件竟然没有涉及那么多为智力和社会心理障碍者提供支持、促进他们全面而有效参与的社区支持系统等 良好实践的范例。  
+> 因此TCIasia与“公民社会协作机制”成员向大会表达了诉求。那么到开会的前两天，大会接纳了我们的意见，并对背景文件进行了修正。下面是TCI提交的建议信，想看那份[背景文件](http://www.un.org/disabilities/documents/COP/9/RT2/CRPD_CSP_2016_3-1603538E-adv-uned.docx)的请猛戳链接。  
 
 英文出处：[camhjournal.com](https://camhjournal.com/2016/06/02/civil-society-response-to-cosp-background-paper-promoting-the-humanrights-of-persons-with-psychosocial-and-intellectual-disabilities/)
 
