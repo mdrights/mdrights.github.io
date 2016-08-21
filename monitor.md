@@ -14,7 +14,7 @@ permalink: /monitor/
 
 ### 一切从政府信息公开说起……
 
-- “什么？政府信息公开是什么？” --> [申请政府信息公开作为公众参与方法]()
+- “什么？政府信息公开是什么？” --> [政府信息公开制度](https://baike.baidu.com/view/617102.htm)
 - 如果你还有兴趣，可以继续到这里学习：[镜像拆那：公众参与和政策倡导平台]({{ site.baseurl }}/mirror-CN)  
 
 ### 猛料在此：
@@ -26,19 +26,27 @@ permalink: /monitor/
 *A精神专科医院的全套对“患者”、住院人士的管理制度（包括诊断、自愿/非自愿/强制住院和出院程序、评估等等）*
 
 1. 诊疗管理制度（包括：入院工作制度和服务流程，四种住院姿势：自愿住院、非自愿住院、强制住院和紧急入院观察的程序流程图）
-![A医院的诊疗管理制度]()   
+
+![A医院的诊疗管理制度]({{ site.baseurl }}/img/sz-kn-policies/sz-入院指引.jpg)   
+![A医院的诊疗管理制度]({{ site.baseurl }}/img/sz-kn-policies/sz-入院服务流程.jpg)   
+![A医院的诊疗管理制度]({{ site.baseurl }}/img/sz-kn-policies/sz-自愿住院流程.jpg)   
+![A医院的诊疗管理制度]({{ site.baseurl }}/img/sz-kn-policies/sz-非自愿住院流程图.jpg)   
+![A医院的诊疗管理制度]({{ site.baseurl }}/img/sz-kn-policies/sz-紧急入院观察流程图.jpg)   
+![A医院的诊疗管理制度]({{ site.baseurl }}/img/sz-kn-policies/sz-强制住院流程图.jpg)   
+
+*下载：*[A医院的诊疗管理制度]({{ site.baseurl }}/docs/sz-kn-policies/sz－住院诊疗管理制度2015.pdf)   
  
 2. 入院通知单，自愿住院知情同意书
-![入院通知单和自愿住院知情同意书]()  
+[入院通知单和自愿住院知情同意书]({{ site.baseurl }}/docs/sz-kn-policies/sz－入院通知单和自愿住院知情同意书.pdf)  
 
 3. 非自愿住院知情同意书，强制治疗告知书
-![非自愿住院知情同意书，强制治疗告知书]()  
+[非自愿住院知情同意书，强制治疗告知书]({{ site.baseurl }}/docs/sz-kn-policies/sz－非自愿住院知情同意书和强制治疗告知书.pdf)  
 
 4. 病情评估、诊疗措施、诊断管理制度
-![病情评估、诊疗措施、诊断管理制度]()  
+[病情评估、诊疗措施、诊断管理制度]({{ site.baseurl }}/docs/sz-kn-policies/sz－病情评估和诊疗措施和诊断管理制度.pdf)  
 
 5. 紧急入院观察知情同意书
-![紧急入院观察知情同意书]()  
+[紧急入院观察知情同意书]({{ site.baseurl }}/docs/sz-kn-policies/sz－紧急入院观察知情同意书.pdf)  
 
 
 
