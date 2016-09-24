@@ -4,4 +4,4 @@
 <hr>
 
 ### ——开放知识，欢迎分享和贡献。
-————联系方式：linusyeung at live dot com
+————有兴趣可联系：MDrights@Telegram
