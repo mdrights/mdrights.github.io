@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /about/
 title: About me
 ---
@@ -31,4 +31,5 @@ I am **MDrights** (what?), a professional social researcher/ethnographer, a poli
 
 ## My works, My interests
 - [mirror-CN: 鏡像拆那——公共政策參與平臺 ]({{ site.baseurl }}/mirror-CN)  
+- [超越精神醫學——精神科倖存者運動]({{ site.baseurl }}/beyond-psychiatry)
 - [os-observe: 開源社區的田野（兼有一些在線隱私安全的筆記）]({{ site.baseurl }}/os-observe)
