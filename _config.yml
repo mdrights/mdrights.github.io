@@ -1,6 +1,6 @@
 # Site settings
 title: 精神科幸存者运动 ——超越精神医学
-email: mdrights@dukgo.com
+email: mdrights@tutanota.de
 tagline: Go beyond Coercive Psychiatry
 description: >
   独立人格－独立生活－包容异己－关注边缘
@@ -19,7 +19,7 @@ markdown: kramdown
 # redcarpet: 
 #  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 exclude: [Gemfile, Gemfile.lock]
-enforce_ssl: mdrights.github.io
+enforce_ssl: https://mdrights.github.io
 # permalink: /posts/:year/:month/:title.html
 permalink: /posts/:title.html
 
