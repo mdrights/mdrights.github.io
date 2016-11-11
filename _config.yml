@@ -1,39 +1,27 @@
-# Site settings
-title: 精神科幸存者运动 ——超越精神医学
-email: mdrights@tutanota.de
-tagline: Go beyond Coercive Psychiatry
-description: >
-  独立人格－独立生活－包容异己－关注边缘
-baseurl: "https://mdrights.github.io"
+# SITE SETTINGS
+title: "MDrights"
+tagline: "A Policy Hacker"
+description: ""
+
 url: "https://mdrights.github.io"
+baseurl: "https://mdrights.github.io"
 timezone: UTC
 excerpt_separator: <!--more-->
-
-# Social settings
-#github_username: mdrights
-#googleplus_id: 
-
+email: 
 
 # Build settings
 markdown: kramdown
-# redcarpet: 
+#redcarpet: 
 #  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
-exclude: [Gemfile, Gemfile.lock]
+exclude: [Gemfile, Gemfile.lock, README.md]
 enforce_ssl: mdrights.github.io
-# permalink: /posts/:year/:month/:title.html
-permalink: /posts/:title.html
-
-# Pagination
-# Set the number of posts per page
-paginate: 4
-paginate_path: "/page:num"
-paginate_limit: 7
+permalink: /posts/:year/:month/:title.html
 
 # Plugins
-#gems:
-#  - jemoji
-#emoji:
-#  src: "/images"
+gems:
+  - jemoji
+emoji:
+  src: "/images"
 
 # Defaults
 defaults:
